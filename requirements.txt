@@ -1,2 +1,4 @@
+bottle==0.12.13
+bottle-sqlalchemy==0.4.3
 numpy==1.13.0
 SQLAlchemy==1.1.11

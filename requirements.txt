@@ -1,2 +1,2 @@
-bottle==0.12.13
-requests==2.12.4
+numpy==1.13.0
+SQLAlchemy==1.1.11
